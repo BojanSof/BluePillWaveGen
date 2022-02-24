@@ -77,7 +77,7 @@ This part of the code should also be improved, for better user experience.
 
 ## Experimental results
 
-![Protoboard version](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/protobard.jpg)
+![Protoboard version](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/protoboard.jpg)
 
 The following waveforms are measured with DSO150 oscilloscope.
 
