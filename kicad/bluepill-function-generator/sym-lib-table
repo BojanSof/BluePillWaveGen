@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "bluepill-fgen")(type "KiCad")(uri "${KIPRJMOD}/bluepill-fgen.kicad_sym")(options "")(descr ""))
+  (lib (name "OLED_displays")(type "KiCad")(uri "${KIPRJMOD}/OLED_displays.kicad_sym")(options "")(descr ""))
+)

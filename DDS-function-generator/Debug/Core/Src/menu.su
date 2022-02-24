@@ -1,0 +1,5 @@
+menu.c:18:6:Menu_Init	24	static
+menu.c:34:6:Menu_Update	24	static
+menu.c:52:11:Menu_NextState	24	static
+menu.c:111:6:Menu_UpdateDDS	32	static
+menu.c:177:6:Menu_UpdateDisplay	56	static

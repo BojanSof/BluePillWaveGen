@@ -1,0 +1,7 @@
+dds.c:17:6:DDS_Init	24	static
+dds.c:41:6:DDS_Start	16	static
+dds.c:58:6:DDS_Stop	16	static
+dds.c:75:6:DDS_Update	24	static
+dds.c:155:6:DDS_ChangeFrequency	16	static
+dds.c:166:6:DDS_ChangeAmplitude	16	static
+dds.c:179:6:DDS_ChangeWaveform	24	static

@@ -1,0 +1,11 @@
+ssd1306.c:20:19:SSD1306_Init	32	static
+ssd1306.c:117:9:SSD1306_UpdateScreen	24	static
+ssd1306.c:137:6:SSD1306_SetCursor	16	static
+ssd1306.c:148:6:SSD1306_ClearBuffer	24	static
+ssd1306.c:157:6:SSD1306_SetPixelState	16	static
+ssd1306.c:173:6:SSD1306_WriteChar	24	static
+ssd1306.c:197:6:SSD1306_WriteString	16	static
+ssd1306.c:209:6:SSD1306_FillRegion	24	static
+ssd1306.c:230:6:SSD1306_InvertRegion	24	static
+ssd1306.c:260:19:SSD1306_WriteCommand	32	static
+ssd1306.c:270:19:SSD1306_WriteData	40	static

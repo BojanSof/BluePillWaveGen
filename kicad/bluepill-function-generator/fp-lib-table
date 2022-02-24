@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "bluepill-fgen")(type "KiCad")(uri "${KIPRJMOD}/bluepill-fgen.pretty")(options "")(descr ""))
+  (lib (name "oled-displays")(type "KiCad")(uri "${KIPRJMOD}/oled-displays.pretty")(options "")(descr ""))
+)
