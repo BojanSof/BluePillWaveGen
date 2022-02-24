@@ -7,7 +7,7 @@ for removing the DC offset.
 The user interface is realized with OLED display based on SSD1306 controller and
 incremental rotary encoder.
 
-[Kicad PCB 3D view](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/3d-pcb.png)
+![Kicad PCB 3D view](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/3d-pcb.png)
 
 ## Specs
 
@@ -22,7 +22,7 @@ Additional tests and modifications should be done to reach the specs.
 
 ## Working Principle
 
-[WaveGen circuit](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/circuit.png)
+![WaveGen circuit](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/circuit.png)
 
 The MCU generates the data for the 8-bit R-2R ladder D/A converter.
 
@@ -34,7 +34,7 @@ Removing the DC offset is realised with the third op amp, which subtracts the
 output of the DAC and the variable voltage and multiplies this difference by
 1.82 so the output signal has maximum amplitude of 3 V.
 
-[DAC data generation](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/block-diagram.png)
+![DAC data generation](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/block-diagram.png)
 
 To generate the data for the DAC, each waveform has lookup table stored in the
 Flash memory of the MCU, with 256 elements with size 1 byte.
@@ -77,7 +77,7 @@ This part of the code should also be improved, for better user experience.
 
 ## Experimental results
 
-[Protoboard version](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/protobard.jpg)
+![Protoboard version](https://github.com/BojanSof/BluePillWaveGen/blob/main/images/protobard.jpg)
 
 The following waveforms are measured with DSO150 oscilloscope.
 
